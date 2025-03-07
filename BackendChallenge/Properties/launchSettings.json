@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BackendChallenge": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
